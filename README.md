@@ -4,7 +4,7 @@
 
 활동 보고서 Github으로 같이 작업하기 project
 
-5주차에 [engadget.com](https://www.engadget.com/) 에 있는 기사를 번역하는 팀 프로젝트를 진행하였습니다.
+5주차에는 [engadget.com](https://www.engadget.com/) 에 있는 기사를 번역하는 팀 프로젝트를 진행하였습니다.
 
 <기사 링크> 
 
