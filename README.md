@@ -4,10 +4,15 @@
 
 활동 보고서 Github으로 같이 작업하기 project
 
-아래의 기사를 번역하는 팀 프로젝트를 진행하였습니다.
+5주차에 [engadget.com](https://www.engadget.com/) 에 있는 기사를 번역하는 팀 프로젝트를 진행하였습니다.
+
+<기사 링크> 
 
 https://www.engadget.com/mark-zuckerberg-oculus-quest-pro-vr-headset-164646103.html
- 
+
+<레포지토리 링크>
+
+https://github.com/jungjayyoung/NPS_GTG_Translation-practice
  <br>
  <br>
  <br>
